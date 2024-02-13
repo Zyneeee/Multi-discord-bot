@@ -1,17 +1,17 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
-    "prefix": "//",
+    "token": "MTIwNjI2OTMzNzc4NzE3OTA2OA.GlBaZm.9zBTg6oiT6Tc_xusiTszWPHi6V0lYMK5-AFcE8",
+    "prefix": "?",
     "ownerIDS": [
-        "442355791412854784"
+        "1107744228773220473"
     ],
-    "fnbr": "GET from: https://fnbr.co",
-    "fortnitetracker": "GET from: https://fortnitetracker.com",
-    "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
+    "fnbr": "c2838e00ed0e79724166cbaa4e1b540b180aa8976f18f381ada54d50b24b64da6e01e7703d6bdabd704366e66659c31fa2025eeaab46c2ccecd64010c8f2baa2",
+    "fortnitetracker": "c92acd24-7e88-41fa-a18d-b89b77ba3688",
+    "memer_api": "dzDnUYh1Sv6",
     "status": {
-        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
-        "text2": "By: discord.gg/dcdev",
-        "type": "PLAYING",
-        "url": "https://twitch.tv/milratodiscordbot"
+        "text": "Your Heart Cuz Why not",
+        "text2": "Played: {songsplayed} Songs",
+        "type": "LISTENING",
+        "url": ""
     },
     "clientsettings": {
         "nodes": [
@@ -23,11 +23,11 @@
         ]
     },
     "spotify": {
-        "clientSecret": "GET from: https://developers.spotify.com",
-        "clientID": "GET from: https://developers.spotify.com"
+        "clientSecret": "3618fdc0b4824cfd91a8d425dac32987",
+        "clientID": "6c31645ffb004ab8b44d06f7b96d1b66"
     },
     "settings": {
-        "COMMENT": "time_delay 0 === insta leave",
+        "COMMENT": "time_delay 3000",
         "leaveOnEmpty_Channel": {
             "enabled": true,
             "time_delay": 30000
